@@ -10,8 +10,15 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good visual: https://pudding.cool/2018/08/pockets/
+      This visual was very good because across the board it is aesthic to look at, substantive and perceptual. I will say while this data is not neutral, it seems to be very factual and conveys a clear disparity around the pocket size of male and female pants pockets. The visualization is aesthic because it provides an interactive visual of the different shapes and sizes of various pants pockets, is seems substantive because each pocket measurement for the different pants is transparently reported also they explain they standardized the process as much as possible through the use of blue jeans across various companies. Lastly, in terms or perceptual, it is very clear the message that the maker of the visualization is trying to make because even from the first image it seems apparent that womens pockets seems smaller. Also, I believe the visualization makers tried to reduce the cognitive load of the viewer by adding references and building on the knowledge presented throughout the visualization (explanatory) in a concise way.
 
+
+
+
+
+      Bad visual: https://pudding.cool/2018/06/music-map/?date=202106 
+      I classifed this visual as bad because, in terms of being substantive, it is hard to tell if this visualization is accurately and honestly presenting that data as it does not give us standardized numbers to justify how they came up with these results (how many views the video recieved in that country per population, etc). Aesthetically this visualization is a nice because it is pleasing to look at due to the colors and the depiction of a map that we are familiar with. In terms of perceptual feedback, in some ways this visualization was a bit hard to decipher the message the maker of the visualization was attempting to convey because when I first looked at the figure I could not tell if it was in English or not because the countries seemed to be named differently, but it turns out they are labeling each country with the #1 song as opposed to labeling the county with it's actual name. This made it difficult for me to understand the visualization at first glance. 
 
 
 
@@ -21,7 +28,12 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good visual: https://pudding.cool/2018/08/pockets/
+      If I had to find a way for this to be improved, I would suggest that for each of the overlapping drawings of pant pockets in the first visaul, they should reference or cite which company that drawing was depicted from. I believe they may not have did this to keep the figure more clean and concise but it would maybe help with the perceptual factual basis of the visualization. 
+
+
+      Bad visual: https://pudding.cool/2018/06/music-map/?date=202106
+      One way to improve the substantiveness of this visualization would be to add the number of viewers per every 1000 viewer or something of that nature to standardize or ranked list of song based on streams for that country in the box that pops up when you hover over the country. This would help with the provenance rhetoric. In terms of perceptual feedback, improve this visualization it would be best to label with the name of the country and then song that is popular after possibly as opposed to the other way around.
 
 
 
